@@ -1,0 +1,18 @@
+C:\Users\thoma\source\repos\Ejercicio I05\Ejercicio I05\bin\Debug\net7.0\Ejercicio I05.exe
+C:\Users\thoma\source\repos\Ejercicio I05\Ejercicio I05\bin\Debug\net7.0\Ejercicio I05.deps.json
+C:\Users\thoma\source\repos\Ejercicio I05\Ejercicio I05\bin\Debug\net7.0\Ejercicio I05.runtimeconfig.json
+C:\Users\thoma\source\repos\Ejercicio I05\Ejercicio I05\bin\Debug\net7.0\Ejercicio I05.dll
+C:\Users\thoma\source\repos\Ejercicio I05\Ejercicio I05\bin\Debug\net7.0\Ejercicio I05.pdb
+C:\Users\thoma\source\repos\Ejercicio I05\Ejercicio I05\bin\Debug\net7.0\Entidades.dll
+C:\Users\thoma\source\repos\Ejercicio I05\Ejercicio I05\bin\Debug\net7.0\Entidades.pdb
+C:\Users\thoma\source\repos\Ejercicio I05\Ejercicio I05\obj\Debug\net7.0\Ejercicio I05.csproj.AssemblyReference.cache
+C:\Users\thoma\source\repos\Ejercicio I05\Ejercicio I05\obj\Debug\net7.0\Ejercicio I05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thoma\source\repos\Ejercicio I05\Ejercicio I05\obj\Debug\net7.0\Ejercicio I05.AssemblyInfoInputs.cache
+C:\Users\thoma\source\repos\Ejercicio I05\Ejercicio I05\obj\Debug\net7.0\Ejercicio I05.AssemblyInfo.cs
+C:\Users\thoma\source\repos\Ejercicio I05\Ejercicio I05\obj\Debug\net7.0\Ejercicio I05.csproj.CoreCompileInputs.cache
+C:\Users\thoma\source\repos\Ejercicio I05\Ejercicio I05\obj\Debug\net7.0\Ejercicio I05.csproj.CopyComplete
+C:\Users\thoma\source\repos\Ejercicio I05\Ejercicio I05\obj\Debug\net7.0\Ejercicio I05.dll
+C:\Users\thoma\source\repos\Ejercicio I05\Ejercicio I05\obj\Debug\net7.0\refint\Ejercicio I05.dll
+C:\Users\thoma\source\repos\Ejercicio I05\Ejercicio I05\obj\Debug\net7.0\Ejercicio I05.pdb
+C:\Users\thoma\source\repos\Ejercicio I05\Ejercicio I05\obj\Debug\net7.0\Ejercicio I05.genruntimeconfig.cache
+C:\Users\thoma\source\repos\Ejercicio I05\Ejercicio I05\obj\Debug\net7.0\ref\Ejercicio I05.dll
