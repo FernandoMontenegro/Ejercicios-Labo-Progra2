@@ -1,0 +1,15 @@
+C:\Users\thoma\source\repos\Ejercicio03\Ejercicio03\bin\Debug\net7.0\Ejercicio03.exe
+C:\Users\thoma\source\repos\Ejercicio03\Ejercicio03\bin\Debug\net7.0\Ejercicio03.deps.json
+C:\Users\thoma\source\repos\Ejercicio03\Ejercicio03\bin\Debug\net7.0\Ejercicio03.runtimeconfig.json
+C:\Users\thoma\source\repos\Ejercicio03\Ejercicio03\bin\Debug\net7.0\Ejercicio03.dll
+C:\Users\thoma\source\repos\Ejercicio03\Ejercicio03\bin\Debug\net7.0\Ejercicio03.pdb
+C:\Users\thoma\source\repos\Ejercicio03\Ejercicio03\obj\Debug\net7.0\Ejercicio03.csproj.AssemblyReference.cache
+C:\Users\thoma\source\repos\Ejercicio03\Ejercicio03\obj\Debug\net7.0\Ejercicio03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thoma\source\repos\Ejercicio03\Ejercicio03\obj\Debug\net7.0\Ejercicio03.AssemblyInfoInputs.cache
+C:\Users\thoma\source\repos\Ejercicio03\Ejercicio03\obj\Debug\net7.0\Ejercicio03.AssemblyInfo.cs
+C:\Users\thoma\source\repos\Ejercicio03\Ejercicio03\obj\Debug\net7.0\Ejercicio03.csproj.CoreCompileInputs.cache
+C:\Users\thoma\source\repos\Ejercicio03\Ejercicio03\obj\Debug\net7.0\Ejercicio03.dll
+C:\Users\thoma\source\repos\Ejercicio03\Ejercicio03\obj\Debug\net7.0\refint\Ejercicio03.dll
+C:\Users\thoma\source\repos\Ejercicio03\Ejercicio03\obj\Debug\net7.0\Ejercicio03.pdb
+C:\Users\thoma\source\repos\Ejercicio03\Ejercicio03\obj\Debug\net7.0\Ejercicio03.genruntimeconfig.cache
+C:\Users\thoma\source\repos\Ejercicio03\Ejercicio03\obj\Debug\net7.0\ref\Ejercicio03.dll
